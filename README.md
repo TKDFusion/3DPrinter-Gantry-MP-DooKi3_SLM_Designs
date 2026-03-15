@@ -22,3 +22,5 @@ There are a few different versions of the tensioning slider with different clear
 ![Z_Front](MP_DooKi3_Z_Stuff/Images/Z_Front_V3.png)
 ![Z_Rear](MP_DooKi3_Z_Stuff/Images/Z_Rear_V3.png)
 
+### Licensing
+See the Annex Engineering License Agreement here: [https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement)
